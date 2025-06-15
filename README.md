@@ -62,8 +62,8 @@ Specific project scope, timelines, and deliverables will be defined and agreed u
 
 To initiate a project or request a quote, please contact:
 
-**Email:** [your.email@example.com]  
-**GitHub Profile:** [https://github.com/yourusername]  
+**Email:** [jkayode470@gmail.com]  
+**GitHub Profile:** [https://github.com/DacodeyTech]  
 
 By hiring me and paying the upfront fee, Client  must agrees to these terms.
 
