@@ -67,4 +67,5 @@ To initiate a project or request a quote, please contact:+2347065357977
 
 By hiring me and paying the upfront fee, Client  must agrees to these terms.
 
----
+
+
