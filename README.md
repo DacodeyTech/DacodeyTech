@@ -1,4 +1,4 @@
-  # Freelance UI Development Contract (HTML/CSS),full stack developer any project using html,css,JavaScript e.t.c
+  # Freelance UI Development Contract (HTML/CSS,Javascript),full stack developer any project using html,css,JavaScript e.t.c
   **Contractor:** [DacodeyTech]  
   **Client:** Any individual or company hiring via this contract 
   **Services:** Frontend development using HTML, CSS, and UI/UX implementation---## Scope of WorkThe Contractor agrees to provide professional frontend development services, including but not limited to:- Responsive HTML layout and structure- Custom CSS styling- UI development as per client design or requirementsSpecific project scope, timelines, and deliverables will be defined and agreed upon separately for each project via email or message.---## Payment Terms- Payment will be made 
