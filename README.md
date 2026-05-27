@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @DacodeyTech
-  # Freelance UI Development Contract (HTML/CSS),full stack developer any project using html,css,JavaScript e.t.c
+  # Freelance UI Development Contract (HTML/CSS,JS),full stack developer any project using html,css,JavaScript e.t.c
 
 **Contractor:** [DacodeyTech]  
 **Client:** Any individual or company hiring via this contract  
-**Services:** Frontend development using HTML, CSS, and UI/UX implementation
+**Services:** Fullstack development using HTML, CSS, and UI/UX implementation
 
 ---
 
