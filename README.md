@@ -46,10 +46,11 @@ The Contractor agrees to provide professional frontend development services, inc
 **GitHub Profile:** [https://github.com/DacodeyTech](https://github.com/DacodeyTech)
 
 By hiring and paying the upfront fee, the Client agrees to these terms.
----
+
 
 
 **Contact** 
+---
 Gmail: jkayode470@gmail.com
 Telegram: https://t.me/DacodeyTech/
 Youtube: https://youtube.com/@dacodeytech?si=ICa04xDeSOMcemY6
