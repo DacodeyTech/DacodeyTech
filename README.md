@@ -13,7 +13,9 @@ The Contractor agrees to provide professional frontend development services, inc
 - Full stack development for various projects
 - UI/UX implementation and design
 
-**Payment:** Per project basis
+**Payment:(Per project basis)**
+---
+
 - The Client agrees to pay **50% upfront** before work begins
 - The remaining **50% is due upon project completion**, before delivery of final files or handover
 - All payments must be made via agreed payment method specified by the Contractor
