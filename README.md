@@ -47,5 +47,5 @@ The Contractor agrees to provide professional frontend development services, inc
 
 By hiring and paying the upfront fee, the Client agrees to these terms.
 **Contact**
-Gmail: jkayode470@gmail
-telegram: https://t.me/dacodeytech/
+Gmail: jkayode470@gmail.com
+Telegram: https://t.me/DacodeyTech/
