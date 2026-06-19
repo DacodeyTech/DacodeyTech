@@ -40,12 +40,13 @@ The Contractor agrees to provide professional frontend development services, inc
 
 - If the Client cancels the project after work has started, the upfront payment is **non-refundable**
 - If the Contractor cancels, any payments received will be refunded in full
+- By hiring and paying the upfront fee, the Client agrees to these terms.
+
+
 
 ---
 
-**GitHub Profile:** [https://github.com/DacodeyTech](https://github.com/DacodeyTech)
 
-By hiring and paying the upfront fee, the Client agrees to these terms.
 
 
 
